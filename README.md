@@ -1,0 +1,7 @@
+# Emotion-Analysing-System
+Tools & Technologies:
+Python, Keras, NumPy, CNN
+We have build a model with the help of python libraries, machine learning (CNN) to identify the facial expression and at that instance what are the other health parameters like BP, HeartBeat etc. and analyze the health parameters in different emotion and give the result to the end user in visual forms like graph, it will give some manual recommendation for activities to reduce stress like movie, music recommendation based on mood.
+It will give you remarks if your average time spent in sad, angry, disgust facial expression is more, because generally facial expression corresponds to a particular emotion.
+We have read research paper in order to understand the mood and trying to establish the relationship between different mood and health parameters but after reading so many papers we find that there is no particular universal relationship that is applicable everywhere. We have used website that shows music and movie recommendations based on particular emotion, Health parameters varies in different mood. Still without extensive research and conclusion we cannot conclude any fact just on the basis of some experiment, In future this project can be extended after establishing the relationship between health parameters and mood for better predictions and recommendation.
+It can be used in old age health monitoring, stress monitoring, airport checks, customer satisfaction feedback etc.
